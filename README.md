@@ -15,17 +15,17 @@ This project was bootstrapped with **Create React App**, and further Application
 **Step 1** - Clone the Repository into your desired location
 
     **Command** -
-    ###`git clone repo link`
+    `git clone repo link`
 
 **Step 2** - Install all packages, present in package.json
 
     **Command** - 
-    ### `npm install`
+    `npm install`
 
 **Step 3** - To start the local server run the below command, it will Runs the app in the development mode, and open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
     **Command** - 
-    ### `npm start`
+    `npm start`
 
 
 
