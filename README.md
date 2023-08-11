@@ -14,7 +14,7 @@ This project was bootstrapped with **Create React App**, and further Application
 
 **Step 1** - Clone the Repository into your desired location
 
-    Command - `git clone repo link`
+    Command - `git clone https://github.com/AbhijaySaxena/student-portal-app.git`
 
 **Step 2** - Install all packages, present in package.json
 
